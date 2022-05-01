@@ -20,17 +20,23 @@
         <entry key="app/src/main/res/drawable-v24/ic_baseline_restaurant_27.xml" value="0.25333333333333335" />
         <entry key="app/src/main/res/drawable-v24/ic_baseline_send_24.xml" value="0.25729166666666664" />
         <entry key="app/src/main/res/drawable-v24/ic_baseline_send_244.xml" value="0.25729166666666664" />
+        <entry key="app/src/main/res/drawable-v24/ic_search_black_24dp.xml" value="0.1655" />
         <entry key="app/src/main/res/drawable-v24/raidus_corner.xml" value="0.25729166666666664" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1655" />
+        <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1655" />
+        <entry key="app/src/main/res/drawable/ic_logorestuniv.xml" value="0.16" />
         <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_guide.xml" value="0.12083333333333333" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.24114583333333334" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19791666666666666" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.67" />
         <entry key="app/src/main/res/layout/activity_menu.xml" value="0.24114583333333334" />
         <entry key="app/src/main/res/layout/card_layout.xml" value="0.5" />
         <entry key="app/src/main/res/layout/envoyer_ticket.xml" value="0.5" />
         <entry key="app/src/main/res/layout/mytoolbar.xml" value="0.24114583333333334" />
         <entry key="app/src/main/res/layout/ticket_cent.xml" value="0.24114583333333334" />
         <entry key="app/src/main/res/menu/main_menu.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1655" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1655" />
       </map>
     </option>
   </component>
